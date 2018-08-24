@@ -1,3 +1,4 @@
+package operacion;
 import java.math.BigDecimal;
 
 public interface IOperacion {
